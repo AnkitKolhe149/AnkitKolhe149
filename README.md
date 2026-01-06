@@ -51,6 +51,12 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkolhe149&show_icons=true&locale=en" alt="ankitkolhe149"/></p>
 
+
+<div style="display: flex;">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitkolhe149&layout=compact&theme=midnight-purple&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankitkolhe149&theme=midnight-purple&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
+</div>
+
 ![Ankit's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ankitkolhe149)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkolhe149&" alt="ankitkolhe149" /></p>
