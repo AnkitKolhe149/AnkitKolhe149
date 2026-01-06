@@ -47,7 +47,9 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkolhe149&show_icons=true&locale=en&layout=compact" alt="ankitkolhe149" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkolhe149&layout=compact&theme=tokyonight" alt="Top programming languages" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkolhe149&show_icons=true&locale=en" alt="ankitkolhe149"/></p>
 
