@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkolhe149&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankitkolhe149)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkolhe149&show_icons=true&locale=en" alt="ankitkolhe149"/></p>
 
