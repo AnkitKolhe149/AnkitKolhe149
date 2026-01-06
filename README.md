@@ -20,7 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkolhe149" alt="ankitkolhe149" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankitkolhe149&theme=onedark&row=1&column=6" alt="GitHub profile trophies" />
+  </a>
+</p>
 
 
 
