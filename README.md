@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkolhe149)](https://github.com/ankitkolhe149/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkolhe149&theme=tokyonight)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkolhe149&show_icons=true&locale=en" alt="ankitkolhe149"/></p>
 
