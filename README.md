@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ankitkolhe149)](https://github-profile-trophy-fork-two.vercel.app/)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+![](https://github-trophies.vercel.app/?username=ankitkolhe149)
 
 
 
