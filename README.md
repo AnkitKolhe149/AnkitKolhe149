@@ -11,8 +11,8 @@ AnkitKolhe149/AnkitKolhe149 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Ankit Kolhe</h1>
-<h3 align="center"> 👀 I’m interested in Competitive Programming and 3D Graphical Design.<br>
-- 🌱 I’m currently learning Computer Science with specialization in Artificial Intelligence & Machine  Learning.</h3>
+<h3 align="center"> 👀 I’m interested in Competitive Programming and Problem Solving <br>
+- 🌱 I’m currently persuing Computer Science with specialization in Artificial Intelligence & Machine  Learning.</h3>
 
 
 
