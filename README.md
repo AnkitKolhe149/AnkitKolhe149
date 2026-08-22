@@ -47,7 +47,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankitkolhe149)](https://github.com/anuraghazra/github-readme-stats)
+<!---/*[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankitkolhe149)](https://github.com/anuraghazra/github-readme-stats)*/ --->
+
+[![Ankit's GitHub stats](https://github-stats-extended.vercel.app/api?username=ankitkolhe149)](https://github.com/stats-organization/github-stats-extended)
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=6&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=6&theme=vision-friendly-dark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkolhe149&show_icons=true&locale=en" alt="ankitkolhe149"/></p>
 
